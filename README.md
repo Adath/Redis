@@ -17,19 +17,19 @@
     </a>
 </p>
 
-<h4 align="center">Website</h4>
+<h6 align="center">Website</h6>
 
 <h6 align="center">
     <a href="https://redis.io">https://redis.io</a>
 </h6>
 
-<h4 align="center">Releases</h4>
+<h6 align="center">Releases</h6>
 
 <h6 align="center">
     <a href="http://bit.ly/redismsi">http://bit.ly/redismsi</a>
 </h6>
 
-<h4 align="center">Installation</h4>
+<h6 align="center">Installation</h6>
 
 > 🖍 Download <a align="center" href="https://github.com/microsoftarchive/redis/releases/download/win-3.0.504/Redis-x64-3.0.504.msi">Redis-x64-3.0.504.msi</a>
 
@@ -38,3 +38,21 @@
 > 🖍 Install `Redis-x64-3.0.504.msi`
 
 > 🖍 type `redis-cli` on Terminal
+
+<h6 align="center">Commands</h6>
+
+```bash
+    echo "Hello, Redis!"
+```
+
+```bash
+    SET user "John Doe"
+```
+
+```bash
+    GET user
+```
+
+```bash
+    DEL user
+```
