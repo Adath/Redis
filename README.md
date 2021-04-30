@@ -23,6 +23,12 @@
     <a href="https://redis.io">https://redis.io</a>
 </h6>
 
-🖍 <a align="center" href="https://github.com/microsoftarchive/redis/releases/download/win-3.0.504/Redis-x64-3.0.504.msi">Redis-x64-3.0.504.msi</a>
+<h4 align="center">Installation</h4>
 
-🖍 <a align="center" href="https://github.com/microsoftarchive/redis/releases/download/win-3.0.504/Redis-x64-3.0.504.zip">Redis-x64-3.0.504.zip</a>
+> 🖍 Download <a align="center" href="https://github.com/microsoftarchive/redis/releases/download/win-3.0.504/Redis-x64-3.0.504.msi">Redis-x64-3.0.504.msi</a>
+
+> 🖍 Download <a align="center" href="https://github.com/microsoftarchive/redis/releases/download/win-3.0.504/Redis-x64-3.0.504.zip">Redis-x64-3.0.504.zip</a>
+
+> 🖍 Install `Redis-x64-3.0.504.msi`
+
+> 🖍 type `redis-cli` on Terminal
