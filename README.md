@@ -23,6 +23,12 @@
     <a href="https://redis.io">https://redis.io</a>
 </h6>
 
+<h4 align="center">Releases</h4>
+
+<h6 align="center">
+    <a href="http://bit.ly/redismsi">http://bit.ly/redismsi</a>
+</h6>
+
 <h4 align="center">Installation</h4>
 
 > 🖍 Download <a align="center" href="https://github.com/microsoftarchive/redis/releases/download/win-3.0.504/Redis-x64-3.0.504.msi">Redis-x64-3.0.504.msi</a>
