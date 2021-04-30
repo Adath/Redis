@@ -56,3 +56,5 @@
 ```bash
     DEL user
 ```
+
+<h6 align="center">Clients <a href="http://redis.io/clients">📂</a></h6>
