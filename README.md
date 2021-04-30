@@ -17,8 +17,12 @@
     </a>
 </p>
 
-<h2 align="center">Website</h2>
+<h4 align="center">Website</h4>
 
-<h3 align="center">
+<h6 align="center">
     <a href="https://redis.io">https://redis.io</a>
-</h3>
+</h6>
+
+🖍 <a align="center" href="https://github.com/microsoftarchive/redis/releases/download/win-3.0.504/Redis-x64-3.0.504.msi">Redis-x64-3.0.504.msi</a>
+
+🖍 <a align="center" href="https://github.com/microsoftarchive/redis/releases/download/win-3.0.504/Redis-x64-3.0.504.zip">Redis-x64-3.0.504.zip</a>
